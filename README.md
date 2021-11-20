@@ -25,4 +25,5 @@ The content of this project itself is licensed under the [Attribution-NonCommerc
 
 ## Credits
 
-Kafeerio logo made by [Vecteezy](https://www.vecteezy.com).
+- Kafeerio logo made by [Vecteezy](https://www.vecteezy.com).
+- Kafeerio banner made by [Sean Benesh](https://unsplash.com/@seanbenesh) on [Unsplash](https://unsplash.com).
