@@ -16,7 +16,7 @@ A virtual coffee house where people come together to work for a common purpose.
 
 ## Copyright
 
-Copyright &copy; 2021 [Kafeerio](https://kafeerio.org).
+Copyright &copy; 2022 [Kafeerio](https://kafeerio.org).
 
 
 ## License
