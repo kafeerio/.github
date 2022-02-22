@@ -7,8 +7,9 @@ A virtual coffee house where people come together to work for a common purpose.
 ## Projects
 
 - [epidemio.live](https://github.com/kafeerio/epidemio.live)  
+  A website that provides information on the current status of the rapid spread of localized diseases.
+- [pandemio.live](https://github.com/kafeerio/pandemio.live)  
   A website that provides information on the current status of the COVID-19 pandemic.
-
 - [get.vaccinated.today](https://github.com/kafeerio/get.vaccinated.today)  
   A website that provides information on where to get vaccinated against COVID-19.
 
