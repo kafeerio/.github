@@ -1,7 +1,13 @@
 
 # Kafeerio
 
-A virtual coffee house where people come together to work for a common purpose.
+> **Hatred is a terrible thing, no matter who it comes from or at whom it is directed.  
+> All we can do is try to inform and bring people together rather than divide them.**
+>
+> Rolf Kralovitz (1925–2015)  
+> *German survivor of the Buchenwald concentration camp, actor, and film producer*
+
+Kafeerio is a virtual coffee house where people come together to work for a common purpose ...
 
 
 ## Projects
